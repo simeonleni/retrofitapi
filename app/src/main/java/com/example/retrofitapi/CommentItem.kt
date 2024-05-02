@@ -39,7 +39,7 @@ fun CommentItem(comment: Comments) {
             Image(
                 imageVector = Icons.Default.AccountCircle,
                 contentDescription = null,
-                modifier = Modifier.size(48.dp).padding(start= 8.dp),
+                modifier = Modifier.size(54.dp).padding(start= 8.dp),
                 colorFilter = ColorFilter.tint(Color.LightGray))
 
             Column(
